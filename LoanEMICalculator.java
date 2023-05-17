@@ -1,4 +1,4 @@
-public class LoanEMICalculator2 {
+public class LoanEMICalculator {
     public static void main(String[] args) {
         double principal = 100000;
         double fixedPayout = 10000;
